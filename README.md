@@ -23,14 +23,16 @@ I specialize in marketplace operations, product listing optimization, catalog ma
 
 **Design Tools:** Canva, Adobe Photoshop, Gemini, OpenAI image generation
 
-## 📂 Areas of Focus
+## 📚 eCommerce Resources
 
-- Product listing and SEO checklists
-- Marketplace catalog management workflows
-- Inventory management documentation
-- Bulk upload and flat-file troubleshooting guides
-- Marketplace integration and data-mapping documentation
-- AI product image and A+ Content workflows
+I've added practical checklists and workflow documents to demonstrate how I approach common marketplace tasks:
+
+- [Product Listing SEO Checklist](resources/product-listing-seo-checklist.md)
+- [Inventory Management Workflow](workflows/inventory-management-workflow.md)
+- [Marketplace Flat-File Troubleshooting Guide](workflows/marketplace-flat-file-troubleshooting.md)
+- [Marketplace Integration Data-Mapping Template](workflows/marketplace-integration-data-mapping.md)
+
+These are general working resources; specific steps should always be adapted to the current rules and tools of each marketplace.
 
 ## 💼 Work With Me
 
